@@ -13,8 +13,8 @@
      - TeamWork
      - Creative
 
-I like to overcome myself, I learn from my mistakes and I like be able to help others. I believe that teamwork is essential to carry out any project.
-I decided switch sector and study programming, because science and technology are my passion.
+I like to overcome myself, I learn from my mistakes and I like to be able to help others. I believe that teamwork is essential to carry out any project.
+I decided to change sector and study programming, because science and technology are my passion.
 
 - 🌙 **Fun fact:** Marie Curie is my inspiration, and we were born the same day!
 
