@@ -1,16 +1,19 @@
-### Hi there 👋
+## Welcome to my profile 😁
 
-<!--
-**saidaHF/saidaHF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73069754/113225489-0f061400-928e-11eb-87da-78de051e94dd.JPG" width="450" title="hover text">  
+</p>
 
-Here are some ideas to get you started:
+ - 🎮 I’m currently working creating a video game: [**Atomic Hunter** ](https://github.com/saidaHF/Atomic-Hunter.git)
+ 
+ - 💻 **Java | C# | JS | Unity | HTML | CSS | XML**
+ 
+ - 👩🏻 Personal Skills: 
+     - Self-taught person
+     - TeamWork
+     - Creative
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am creative person and I like to overcome myself, I learn from my mistakes and I like be able to help others; I believe that teamwork is essential to carry out any project.
+I decided switch sector and study programming, because science and technology are my passion.
+
+
