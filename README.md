@@ -13,7 +13,7 @@
      - TeamWork
      - Creative
 
-I am creative person and I like to overcome myself, I learn from my mistakes and I like be able to help others; I believe that teamwork is essential to carry out any project.
+I like to overcome myself, I learn from my mistakes and I like be able to help others. I believe that teamwork is essential to carry out any project.
 I decided switch sector and study programming, because science and technology are my passion.
 
 
