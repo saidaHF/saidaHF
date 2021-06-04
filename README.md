@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/73069754/113225489-0f061400-928e-11eb-87da-78de051e94dd.JPG" width="450" title="hover text">  
 </p>
 
- -  ⚛ I am currently in internship at ALBA synchrotron 
+ -  ⚛ I am currently in internship at ALBA Synchrotron 
 
  -  🎮 I was working in a project: [**Womxn Develop to Ubisoft**](https://paris.ubisoft.com/en/womxn-develop-at-ubisoft/), creating my own video game: [**Atomic Hunter** ](https://github.com/saidaHF/Atomic-Hunter.git)
  - 💻 ** Python | Java | C# | JS | Unity | HTML | CSS | XML **
