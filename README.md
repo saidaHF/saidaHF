@@ -6,7 +6,8 @@
 
  -  ⚛ I am currently in internship at [**ALBA Synchrotron**](https://www.cells.es/es/)
 
- -  🎮 I was working in a project: [**Womxn Develop to Ubisoft**](https://paris.ubisoft.com/en/womxn-develop-at-ubisoft/), creating my own video game: [**Atomic Hunter** ](https://github.com/saidaHF/Atomic-Hunter.git)
+ -  🎮 I was working in a project: [**Womxn Develop to Ubisoft**](https://paris.ubisoft.com/en/womxn-develop-at-ubisoft/), creating my own video game: [**Atomic Hunter** ](https://github.com/saidaHF/Atomic-Hunter.git) and I was a finalist.
+ 
  - 💻 **Python | Java | C# | JS | Unity | HTML | CSS | XML**
  
  - 👩🏻 **Personal Skills:** 
