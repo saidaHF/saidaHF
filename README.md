@@ -1,7 +1,7 @@
 ## Welcome to my profile 😁
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73069754/113225489-0f061400-928e-11eb-87da-78de051e94dd.JPG" width="450" title="hover text">  
+  <img src="https://user-images.githubusercontent.com/73069754/165260258-fd54d392-973d-47ac-a29b-1767dba36583.png" width="450" title="hover text">  
 </p>
 
  -  ⚛ I am currently in internship at [**ALBA Synchrotron**](https://www.cells.es/es/)
