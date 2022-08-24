@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/73069754/165260258-fd54d392-973d-47ac-a29b-1767dba36583.png" width="500" title="hover text">  
 </p>
 
- -  ⚛ I was in internship at [**ALBA Synchrotron**](https://www.cells.es/es/) and I did [**this project**](https://github.com/saidaHF/EPSUserGUI)
+ -  ⚛ I was in internship for a year at [**ALBA Synchrotron**](https://www.cells.es/es/) and I did [**this project**](https://github.com/saidaHF/EPSUserGUI)
 
  -  🎮 I was working in a project: [**Womxn Develop to Ubisoft**](https://www.youtube.com/watch?v=l4qxms2-55o&ab_channel=UbisoftParis), creating my own video game: [**Atomic Hunter** ](https://github.com/saidaHF/Atomic-Hunter.git), and I was a finalist
  
