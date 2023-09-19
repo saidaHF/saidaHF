@@ -19,7 +19,7 @@ I like to overcome myself, I learn from my mistakes and I like to be able to hel
 
 |  💻 Programming        |   🎮 VG Tools   |          🛠 Work Tools          |
 |:----------------------:|:---------------:|:-------------------------------:|
-|  Python 🐍 (Flask)     | Unreal Engine 5 |            Docker 🐳           |
+|  Python 🐍 (Flask, PyQt5)     | Unreal Engine 5 |            Docker 🐳           |
 |      Java ☕ (Swing)   |   Unity 2D 3D   |     BBDD (MySQL)                | 
 |       C# .Net           |      Godot      | VSC, IntelliJ, Pycharm, Eclipse |
 |     Kotlin              |      Maya 3D    |              Jira               |
