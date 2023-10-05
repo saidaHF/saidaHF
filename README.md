@@ -10,7 +10,7 @@ I like to overcome myself, I learn from my mistakes and I like to be able to hel
 
  - 🤓 I was teacher of Python and Android (Kotlin) for Advanced Vocational Training in: "DAM" and "ASIX".
  -  ⚛ I did my internship for a year at [**ALBA Synchrotron**](https://www.cells.es/es/) and I did [**this project**](https://github.com/saidaHF/EPSUserGUI)
- -  🕹 I participated in an event: [**Womxn Develop to Ubisoft**](https://www.youtube.com/watch?v=l4qxms2-55o&ab_channel=UbisoftParis), creating my own video game: [**Atomic Hunter** ](https://github.com/saidaHF/Atomic-Hunter.git), and I was a finalist
+ -  🕹 I participated in an event: [**Womxn Develop to Ubisoft**](https://www.youtube.com/watch?v=l4qxms2-55o&ab_channel=UbisoftParis), creating my own video game: [**Atomic Hunter** ](https://github.com/saidaHF/Atomic-Hunter.git), and I was a finalist, I won €50! :)
 
  - 👩🏻 **Skills:** 
      - [x] Self-taught person
