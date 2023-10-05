@@ -28,7 +28,7 @@ I like to overcome myself, I learn from my mistakes and I like to be able to hel
 |-                        |        -        |            SQLAlchemy           |
 
 
-- 🌙 **Fun fact:** I admire Marie Curie, and we were born the same day!
+- 🌙 **Fun fact:** I admire Marie Curie, and we were born the same day! Do you know which day?
 
 
 
