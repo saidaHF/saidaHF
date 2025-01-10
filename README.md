@@ -17,15 +17,17 @@ I like to overcome myself, I learn from my mistakes and I like to be able to hel
      - [x] TeamWork
      - [x] Creative
 
-|  💻 Programming        |   🎮 VG Tools   |          🛠 Work Tools          |
-|:----------------------:|:---------------:|:-------------------------------:|
-|  Python 🐍 (Flask, PyQt5)     | Unreal Engine 5 |            Docker 🐳           |
-|      Java ☕ (Swing)   |   Unity 2D 3D   |     BBDD (MySQL)                | 
-|       C# .Net           |      Godot      | VSC, IntelliJ, Pycharm, Eclipse |
-|     Kotlin              |      Maya 3D    |              Jira               |
-|   JavaScript (Vue.js)   |        -         |    Github, Gitlab, Bitbucket    |
-| XML, HTML, CSS          |       -          |            Confluence           |
-|-                        |        -        |            SQLAlchemy           |
+|  💻 Programming        |   🎮 VG Tools   |          🛠 Work Tools           |
+|:----------------------:|:---------------:|:---------------------------------:|
+|  Python 🐍             | Unreal Engine 5   |            Docker 🐳            |
+|  Flask, PyQt5, FastAPI  | -                |     AWS (S3, CloudWatch), GCP ☁ |
+|      Java ☕ (Swing)    |  Unity 2D, 3D    |     BBDD (MySQL)                | 
+|       C# .Net           |      Godot       | VSC, IntelliJ, Pycharm, Eclipse  |
+|     Kotlin              |      Maya 3D     |              Jira                |
+|   JavaScript            |        -         |    OpenShift, PostMan            |
+|   Angular.js, Vue.js    |        -         |             Jenkins              |
+| XML, HTML, CSS          |       -          |         Confluence      |
+| -                       |        -         |      SQLAlchemy, Alembic         |
 
 
 - 🌙 **Fun fact:** I admire Marie Curie, and we were born the same day! Do you know which day?
